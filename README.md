@@ -1,3 +1,3 @@
 # GitKertausRepo
 
-Nimi: Oma Nimi
+Nimi: Santi Anttonen
